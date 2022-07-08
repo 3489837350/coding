@@ -1,0 +1,10 @@
+pos/pos0.jpg 1 0 0 50 50
+pos/pos1.jpg 1 0 0 50 50
+pos/pos2.jpg 1 0 0 50 50
+pos/pos3.jpg 1 0 0 50 50
+pos/pos4.jpg 1 0 0 50 50
+pos/pos5.jpg 1 0 0 50 50
+pos/pos6.jpg 1 0 0 50 50
+pos/pos7.jpg 1 0 0 50 50
+pos/pos8.jpg 1 0 0 50 50
+pos/pos9.jpg 1 0 0 50 50

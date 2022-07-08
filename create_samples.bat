@@ -1,0 +1,1 @@
+"opencv_createsamples.exe"  -info "pos.txt" -vec pos.vec -num 10 -w 50 -h 50   
